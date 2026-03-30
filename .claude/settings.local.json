@@ -13,7 +13,8 @@
       "Bash(/c/Users/keith/AppData/Local/Programs/Python/Python313/python.exe -m pip list)",
       "Bash(find \"/c/Users/keith/OneDrive/Keith/MS Data Science/02. Spring ''''26/CS 6140 - Machine Learning/Project/Project_Files/\" -name *.txt -o -name *.cfg -o -name *.toml)",
       "Read(//c/Users/keith/AppData/Roaming/jupyter//**)",
-      "Read(//c/Users/keith//**)"
+      "Read(//c/Users/keith//**)",
+      "Bash(python3:*)"
     ]
   }
 }
